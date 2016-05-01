@@ -1,0 +1,17 @@
+Project
+=======
+Building a recommender system,
+
+Problem
+=======
+Using an internal workforce tool to make recommendations for which people should on which software development project.
+
+Goals
+=====
+1. Recommend a project team based on;
+    - peoples skills
+    - preferences
+    - past project experiences 
+    - upcoming/scheduled leave
+
+2. Recommendations should minimize travel, as we would prefer as much as possible to have localised teams working in each city
